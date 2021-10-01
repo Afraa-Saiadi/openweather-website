@@ -1,0 +1,39 @@
+body{
+background-color: rgb(241, 243, 245);
+}
+.nav-wrapper{
+background-color: lightblue;
+}
+
+#result{
+    text-align: center;
+    margin-top: 150px;
+}
+
+#input-btn{
+    text-align: center;
+    margin-top: 200px;
+}
+
+#search-input{
+    width: 30%;
+    height: 40px;
+    font-size: x-large;
+}
+
+#search-btn{
+    width: 10%;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(186, 216, 240, 0.993);
+}
+
+.weather {
+    font-size: 40px;
+    margin: 0;
+}
+
+.temp {
+    font-size: 60px;
+    font-weight: bold;
+}
